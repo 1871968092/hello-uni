@@ -1,0 +1,1 @@
+<view><view class="box" hover-class="activebox" hover-start-time="2000">你好</view><button type="warn" size="mini" plain>按钮</button><button loading>按钮</button><image src="../../static/logo.png" mode="aspectFit"></image></view>
